@@ -1,2 +1,2 @@
-# Corsera-test-
+# Corsera-test
 Corsera test repository 
